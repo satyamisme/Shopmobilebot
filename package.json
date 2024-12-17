@@ -1,0 +1,14 @@
+{
+  "name": "mobile-inventory",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "generate": "node src/utils/generateSampleData.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
