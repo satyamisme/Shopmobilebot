@@ -1,0 +1,64 @@
+Folder PATH listing
+Volume serial number is E641-4702
+C:.
+¦   bot.py
+¦   config.py
+¦   data_manager.py
+¦   dir.txt
+¦   exceptions.py
+¦   index.js
+¦   message_handler.py
+¦   models.py
+¦   run.py
+¦   
++---bot
+¦       bot.py
+¦       handlers.py
+¦       
++---database
+¦       database.py
+¦       init_db.py
+¦       models.py
+¦       
++---handlers
+¦       command_handler.py
+¦       message_handler.py
+¦       stats_handler.py
+¦       
++---services
+¦       analytics_service.py
+¦       auth_service.py
+¦       data_sync.py
+¦       logger_service.py
+¦       permission_service.py
+¦       product_service.py
+¦       transfer_service.py
+¦       
++---utils
+¦   ¦   analytics.py
+¦   ¦   data_manager.py
+¦   ¦   excel_generator.py
+¦   ¦   excel_utils.py
+¦   ¦   exceptions.py
+¦   ¦   formatters.py
+¦   ¦   generateSampleData.js
+¦   ¦   logger.py
+¦   ¦   message_formatter.py
+¦   ¦   permissions.py
+¦   ¦   validators.py
+¦   ¦   
+¦   +---__pycache__
+¦           excel_generator.rustpython-01.pyc
+¦           excel_generator.rustpython-01.pyc.21044128
+¦           
++---web
+¦   ¦   auth.py
+¦   ¦   main.py
+¦   ¦   
+¦   +---templates
+¦           index.html
+¦           
++---__pycache__
+        bot.cpython-312.pyc
+        bot.rustpython-01.pyc
+        
